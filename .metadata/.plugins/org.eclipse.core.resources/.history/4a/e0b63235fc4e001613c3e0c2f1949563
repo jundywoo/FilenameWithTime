@@ -1,0 +1,7 @@
+/catalina.policy
+/catalina.properties
+/context.xml
+/jmxremote.access
+/jmxremote.password
+/server.xml
+/tomcat-users.xml
