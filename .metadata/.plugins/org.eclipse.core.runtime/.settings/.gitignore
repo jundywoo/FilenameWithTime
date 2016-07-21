@@ -15,3 +15,10 @@
 /org.springframework.ide.eclipse.imports.prefs
 /org.springsource.ide.eclipse.commons.core.prefs
 /org.springsource.ide.eclipse.dashboard.ui.prefs
+/org.eclipse.e4.ui.css.swt.theme.prefs
+/org.eclipse.e4.ui.workbench.renderers.swt.prefs
+/org.eclipse.pde.api.tools.prefs
+/org.eclipse.wst.jsdt.ui.prefs
+/org.eclipse.debug.core.prefs
+/org.eclipse.jdt.debug.ui.prefs
+/org.eclipse.recommenders.completion.rcp.prefs
